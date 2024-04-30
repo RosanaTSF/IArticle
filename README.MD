@@ -1,12 +1,13 @@
 <p align="center">
-    <img width="100" src=".github/assets/banner.png">
+  <img width="100" src=".github/assets/banner.png">
 </p>
 
-
 <p align="center">
-  <a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course">
+  <a href="https://dio.me/">
+    <img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course">
   </a>
-  <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash">
+  <a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage">
+    <img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash">
   </a>
 </p>
 
@@ -17,17 +18,17 @@
   />
 </p>
 
-# APIs: O Pilar Invisível da Revolução Tecnológica Global.
+# APIs: O Pilar Invisível da Revolução Tecnológica Global
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=ktfS6qIy7XM" title="Preview do Conteúdo">
-  <img src=".github/assets/video-preview.png" width="80%">
+    <img src=".github/assets/video-preview.png" width="80%">
   </a>
-<p>
+</p>
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
-<a href="https://web.dio.me/articles/apis-o-pilar-invisivel-da-revolucao-tecnologica-global?back=%2Farticles&open-modal=true&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
+[📕Clique aqui para ler o artigo](https://web.dio.me/articles/apis-o-pilar-invisivel-da-revolucao-tecnologica-global?back=%2Farticles&open-modal=true&page=1&order=oldest)
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -37,13 +38,13 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 
 ## 📄 Prompts e ferramentas
 
+### ChatGPT
 
-ChatGPT：                                                                                                  |
-| conteúdo |  {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+- **Conteúdo:** Explique sempre de uma maneira simples, deixe o texto enxuto, sempre traga exemplos de código em contextos reais e sempre deixe um título sugestivo por tópico.
 
-Lexica.art：
+### Lexica.art
 
-- No léxica utilizamos o acervo público de imagens geradas por outras pessoas, os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
+- No Lexica, utilizamos o acervo público de imagens geradas por outras pessoas. Os termos de pesquisa que utilizei durante a gravação do conteúdo foram:
 
 ## ✨ Features
 
@@ -52,27 +53,16 @@ Lexica.art：
 
 ## 📚 Materiais
 
-- prompts utilizados
+- Prompts utilizados
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação, o passo a passo em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).
+Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como PowerPoint, LibreOffice ou InDesign para diagramação. O passo a passo em vídeo pode ser conferido na plataforma da [DIO](https://dio.me).
 
 ## 👨‍💻 Expert
 
-<p>
-    />
-    <p>&nbsp&nbsp&nbspRosana TSF<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/RosanaTSF">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/rosanatsf/">LinkedIn</a>
-&nbsp;|&nbsp;
-
-&nbsp;|&nbsp;</p>
+<p align="center">
+  Rosana TSF<br>
+  <a href="https://github.com/RosanaTSF">GitHub</a> | 
+  <a href="https://www.linkedin.com/in/rosanatsf/">LinkedIn</a>
 </p>
-<br/><br/>
-<p>
-
-
-
