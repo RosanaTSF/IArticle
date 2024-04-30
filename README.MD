@@ -10,11 +10,9 @@
   </a>
 </p>
 
--------
-
 <p align="center">
   <img 
-    src=".github/assets/preview.png"
+    src=".github/assets/preview.jpg"
     width="400"  
   />
 </p>
