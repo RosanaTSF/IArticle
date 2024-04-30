@@ -21,9 +21,6 @@
 
 # Projeto artigo técnico gerado por I.A.s
 
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me).
-
 <p align="center">
   <a href="https://www.youtube.com/watch?v=ktfS6qIy7XM" title="Preview do Conteúdo">
   <img src=".github/assets/video-preview.png" width="80%">
@@ -43,11 +40,7 @@ Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura a
 ## 📄 Prompts e ferramentas
 
 
-ChatGPT：
-
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas                                                                                                                                                                                                    |
+ChatGPT：                                                                                                  |
 | conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
 
 
@@ -83,13 +76,12 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     />
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/RosanaTSF">
     GitHub</a>&nbsp;|&nbsp;
     <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+RosanaTSF">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
+
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
@@ -97,4 +89,3 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
