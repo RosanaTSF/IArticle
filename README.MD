@@ -63,7 +63,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 <p>
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspRosana TSF<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/RosanaTSF">
     GitHub</a>&nbsp;|&nbsp;
@@ -75,5 +75,5 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 <br/><br/>
 <p>
 
----
+
 
