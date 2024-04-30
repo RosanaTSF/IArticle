@@ -13,7 +13,7 @@
 <p align="center">
   <img 
     src=".github/assets/preview.jpg"
-    width="400"  
+    width="100"  
   />
 </p>
 
