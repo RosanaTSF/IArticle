@@ -19,7 +19,7 @@
   />
 </p>
 
-# Projeto artigo técnico gerado por I.A.s
+# APIs: O Pilar Invisível da Revolução Tecnológica Global
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=ktfS6qIy7XM" title="Preview do Conteúdo">
