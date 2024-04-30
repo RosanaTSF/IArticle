@@ -78,8 +78,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     &nbsp&nbsp&nbsp
     <a href="https://github.com/RosanaTSF">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-RosanaTSF">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/rosanatsf/">LinkedIn</a>
 &nbsp;|&nbsp;
 
 &nbsp;|&nbsp;</p>
